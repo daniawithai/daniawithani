@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daniawithani
+- 👋 Hi, I’m @daniawithai
 - 👀 I’m interested in working in the Health care System 
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on projects that will help me get into my desired field 
